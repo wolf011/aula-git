@@ -1,1 +1,6 @@
 Exemplo de branch
+<<<<<<< HEAD
+=======
+Teste 4
+EXEMPLO DE CONFLITO NO COMMIT
+>>>>>>> b41b2a5bd448bcdea1637ea0676199c6ac93b77d
